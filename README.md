@@ -1,1 +1,1 @@
-Программа для отправки смс
+This programm send SMS 
