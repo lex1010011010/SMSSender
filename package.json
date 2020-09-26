@@ -1,0 +1,19 @@
+{
+  "name": "smssender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.2.1",
+    "tedious": "^9.2.1",
+    "xml-parser": "^1.2.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {}
+}

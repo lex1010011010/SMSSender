@@ -1,0 +1,16 @@
+{
+    "cinema": "---***---",
+    "TOKEN": "---***---",
+    "configDB": {
+        "user": "sa",
+        "password": "---***---",
+        "server": "---***---",
+        "database": "---***---",
+        "options": {
+            "encrypt": true,
+            "enableArithAbort": true
+        }
+    },
+    "logTable": "///",
+    "message": "`Бронь №${reservationNumber} \"${eventName}\" ${eventStart} ${cinemaName}`"
+}
